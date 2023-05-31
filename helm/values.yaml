@@ -1,11 +1,11 @@
 frontend:
   image: vergilken111/frontend
-  tag: 151ecb0
+  tag: 63cc833
   autoscaling:
     averageUtilization: 90
 backend:
   image: vergilken111/backend
-  tag: 151ecb0
+  tag: 63cc833
   autoscaling:
     averageUtilization: 90
 database:
